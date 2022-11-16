@@ -1,6 +1,8 @@
 # MY GITHUB 💕
 
-## dd
+## STUDYING ~,~,~
+
+## ACTIVE ~<~<~<
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
