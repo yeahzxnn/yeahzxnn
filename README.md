@@ -3,6 +3,18 @@
 ## STUDYING 
 
 ## ACTIVE 
+OWL-FOREST FRONTEND-BOOKREVIEW REGISTER PAGE 
+CODING CLUB FRM - REACT STUDYING & MAKING OUR WEBSITE
+TECHEER PARTNERS - HTML&CSS&JS STUDYING
+
+SOON
+MAKING VELOG PAGE
+MAKING MY PORTFOLIO
+
+INTEREST
+FRONTEND
+UI & UX
+ios
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
