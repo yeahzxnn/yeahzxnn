@@ -1,4 +1,4 @@
-### Hi there 👋
+### MY GITHUB
 
 <a href="https://scandalous-handspring-0c6.notion.site/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"><img src="#000000-000000?style=plastic&logo=appveyor&logoColor=000000"/></a>
 
