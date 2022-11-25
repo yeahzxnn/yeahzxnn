@@ -2,12 +2,11 @@
 
 <div align=center>
   <h2>
-    📚 STUDYING 
+    📚 STUDYING
+    🍀 ACTIVITIES
+    
   
   </h2></div>
-
-
-## 📚 STUDYING 
 
 ## 🍀 ACTIVITIES
 #### OWL-FOREST FRONTEND
