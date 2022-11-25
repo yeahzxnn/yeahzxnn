@@ -2,9 +2,9 @@
 WELCOME
 </div>
 
-
+<div align="center">
 ## 📚 STUDYING 
-
+</div>
 ## 🍀 ACTIVITIES
 #### OWL-FOREST FRONTEND
 #### CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE
