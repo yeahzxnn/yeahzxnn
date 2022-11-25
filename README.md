@@ -1,7 +1,3 @@
-<div align="center>
-    # Yongjun Park @yopark @yoopark @yoopaark
-</div>
-        
 # WELCOME
    
 ## 📚 STUDYING 
