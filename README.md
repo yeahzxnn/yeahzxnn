@@ -30,6 +30,9 @@
   DESIGN
 </div> <br>
 
+<div align=center><h1>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
+</h1></div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
 
 
