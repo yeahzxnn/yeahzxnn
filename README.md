@@ -1,5 +1,21 @@
 <div align="center">
-  # Welcome
+  Welcome
+  
+  ## 📚 STUDYING 
+
+## 🍀 ACTIVITIES
+#### OWL-FOREST FRONTEND
+#### CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE
+#### TECHEER PARTNERS - HTML&CSS&JS STUDYING
+
+## 🔜 SOON
+#### MAKING VELOG PAGE
+#### MAKING MY PORTFOLIO
+
+## 👇🏻INTEREST
+#### FRONTEND
+#### ..
+
 </div>
 
 
