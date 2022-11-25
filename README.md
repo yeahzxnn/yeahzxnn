@@ -16,13 +16,20 @@
   TECHEER PARTNERS - HTML&CSS&JS STUDYING
 </div>
 
-## 🔜 SOON
-#### MAKING VELOG PAGE
-#### MAKING MY PORTFOLIO
+<div align=center>
+  <h2>🔜 SOON</h2>
+  MAKING VELOG PAGE <br>
+  MAKING MY DESIGN PORTFOLIO <br>
+  IOS APP DEVELOPING
+</div>
 
-## 👇🏻INTEREST
-#### FRONTEND
-#### ..
+<div align=center>
+  <h2>👇🏻INTEREST</h2>
+  FRONTEND <br>
+  iOS APP <br>
+  DESIGN
+</div>
+
 
 
 
