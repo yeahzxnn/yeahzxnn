@@ -20,7 +20,7 @@
   <h2>🔜 SOON</h2>
   MAKING VELOG PAGE <br>
   MAKING MY DESIGN PORTFOLIO <br>
-  IOS APP DEVELOPING
+  iOS APP DEVELOPING
 </div>
 
 <div align=center>
