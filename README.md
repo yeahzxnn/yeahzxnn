@@ -2,7 +2,7 @@
 
 <div align=center>
   <h2>📚 STUDYING </h2>
-  REACT <br>
+  REACT <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>  <br>
   HTML & CSS & JS <br>
   JAVA <br>
   PYTHON <br>
@@ -32,6 +32,7 @@
 
 <div align=center><h2>📂 MY NOTION LINK</h2><a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
 </div>
+
 <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=orange"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=Yellow"/>
