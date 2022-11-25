@@ -1,5 +1,12 @@
 <div align=center><h1>👋 WELCOME </h1></div>
 
+<div align=center>
+  <h2>
+    📚 STUDYING 
+  
+  </h2></div>
+
+
 ## 📚 STUDYING 
 
 ## 🍀 ACTIVITIES
