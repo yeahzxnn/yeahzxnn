@@ -1,4 +1,4 @@
-<div align=center><h1>👋 WELCOME </h1></div>
+<div align=center><h1>🌈 WELCOME </h1></div>
 
 <div align=center>
   <h2>📚 STUDYING </h2>
@@ -35,9 +35,8 @@
 <div align=center><h2>📂 MY NOTION LINK</h2><a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
-
+<div align=center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
+</div>
 
 <!--
 **yeahzxnn/yeahzxnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
