@@ -1,3 +1,7 @@
+<div align="center>
+    # Yongjun Park @yopark @yoopark @yoopaark
+</div>
+        
 # WELCOME
    
 ## 📚 STUDYING 
@@ -30,11 +34,6 @@
 
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=Green"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
-
-<div align="center>
-    # Yongjun Park @yopark @yoopark @yoopaark
-</div>
-         
 
 <!--
 **yeahzxnn/yeahzxnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
