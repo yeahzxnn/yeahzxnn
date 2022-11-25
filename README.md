@@ -44,6 +44,9 @@
 
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=Green"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=radical)
+
+
 <!--
 **yeahzxnn/yeahzxnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
