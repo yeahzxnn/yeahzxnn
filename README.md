@@ -1,20 +1,20 @@
 <div align=center><h1>👋 WELCOME </h1></div>
 
 <div align=center>
-  <h2>
-    📚 STUDYING
-  </h2></div>
+  <h2>📚 STUDYING </h2>
+  REACT
+  HTML & CSS & JS 
+  JAVA
+  PYTHON
+  MYSQL
+</div>
+
   <div align=center>
   <h2>🍀 ACTIVITIES</h2>
   OWL-FOREST FRONTEND <br>
   CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE <br>
   TECHEER PARTNERS - HTML&CSS&JS STUDYING
 </div>
-
-## 🍀 ACTIVITIES
-#### OWL-FOREST FRONTEND
-#### CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE
-#### TECHEER PARTNERS - HTML&CSS&JS STUDYING
 
 ## 🔜 SOON
 #### MAKING VELOG PAGE
