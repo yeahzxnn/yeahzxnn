@@ -2,11 +2,11 @@
 
 <div align=center>
   <h2>📚 STUDYING </h2>
-  REACT
-  HTML & CSS & JS 
-  JAVA
-  PYTHON
-  MYSQL
+  REACT <br>
+  HTML & CSS & JS <br>
+  JAVA <br>
+  PYTHON <br>
+  MYSQL <br>
 </div>
 
   <div align=center>
