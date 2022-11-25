@@ -38,12 +38,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whynotyoucan)](https://solved.ac/whynotyoucan)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&layout=compact)](https://github.com/yeahzxnn/github-readme-stats)
-
-
-<div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
   
   
