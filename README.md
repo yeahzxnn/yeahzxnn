@@ -3,9 +3,13 @@
 <div align=center>
   <h2>
     📚 STUDYING
+  </h2></div>
+  <div align=center>
+  <h2>
     🍀 ACTIVITIES
-    
-  
+    OWL-FOREST FRONTEND
+    CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE
+    TECHEER PARTNERS - HTML&CSS&JS STUDYING
   </h2></div>
 
 ## 🍀 ACTIVITIES
