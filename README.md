@@ -1,4 +1,6 @@
-# Welcome
+<div align="center">
+  Welcome
+</div>
 
 
 ## 📚 STUDYING 
