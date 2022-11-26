@@ -42,7 +42,7 @@
 <div>
  FRONTEND <br>
  iOS APP DEVELOPING <br>
- DESIGN
+ DESIGN <br>
  MAKING VELOG PAGE <br>
  MAKING MY DESIGN PORTFOLIO <br>
  </div>
