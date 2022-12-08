@@ -50,6 +50,7 @@
  iOS APP DEVELOPING <br>
  RESPONSIVE WEB DESIGN <br>
  UI/UX
+ PM
 </div>
  
 <br />
