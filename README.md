@@ -2,13 +2,33 @@
 
  # ⛄️   Hi, This is SYJ's Github   ⛄️
 
+## Click plz
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
- <div> 👉🏻<a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 👈🏻</div>
-
-## Lisen Now!!
+## Listen Now !!
 <img src="https://i.ytimg.com/vi/PpW_sYtwun0/maxresdefault.jpg" /> 
  <div> 👉🏻 <a href="https://www.youtube.com/watch?v=PpW_sYtwun0"> </a> 👈🏻</div>
+
+## 👇🏻 See more details in my Notion
+<div> 👉🏻<a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 👈🏻</div>
+
+## ❄️ Activities ❄️
+
+<div>
+  UNIV OWL-FOREST FRONTEND <br>
+  UNIV CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE <br>
+  SWIFT CODING CLUB 3rd - IOS STUDYING <br>
+  RISING CAMP 13th - iOS App DEVELOPING
+</div>
+ 
+## ❄️ Interested in.. ❄️
+ 
+<div>
+ iOS APP DEVELOPING <br>
+ RESPONSIVE WEB DESIGN <br>
+ UI/UX <br>
+ PM
+</div>
   
 ## ❄️ Coding Skill ❄️
 
@@ -37,24 +57,6 @@
  
 </div>
 
-## ❄️ Activities ❄️
-
-<div>
-  UNIV OWL-FOREST FRONTEND <br>
-  UNIV CODING CLUB - REACT STUDYING & MAKING OUR WEBSITE <br>
-  SWIFT CODING CLUB 3rd - IOS STUDYING <br>
-  RISING CAMP 13th - iOS App DEVELOPING
-</div>
- 
-## ❄️ Interested in.. ❄️
- 
-<div>
- iOS APP DEVELOPING <br>
- RESPONSIVE WEB DESIGN <br>
- UI/UX <br>
- PM
-</div>
- 
 <br />
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=dracula)
