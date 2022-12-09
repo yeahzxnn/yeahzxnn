@@ -1,6 +1,6 @@
 <div align="center">
 
- # 🎄  MERRY CHRISTMAS  🎄
+ # ⛄️   Hi, This is SYJ's Github   ⛄️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
@@ -8,7 +8,7 @@
 
 <img src="https://66.media.tumblr.com/4e4f3d374133765244426903a2c6cae7/tumblr_pgvsdhHAa61xzxbu6o1_540.gif" />
   
-## ❄️ CODING SKILL ❄️
+## Coding Skill
 
 <div>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -22,7 +22,7 @@
  
 </div>
   
-## ❄️ DEVELOPING TOOLS ❄️
+## Tools
 
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -35,7 +35,7 @@
  
 </div>
 
-## ❄️ ACTIVITIES ❄️
+## Activities
 
 <div>
   UNIV OWL-FOREST FRONTEND <br>
@@ -44,12 +44,12 @@
   RISING CAMP 13th - iOS App DEVELOPING
 </div>
  
-## ❄️ INTERESTING ❄️
+## Interested in..
  
 <div>
  iOS APP DEVELOPING <br>
  RESPONSIVE WEB DESIGN <br>
- UI/UX
+ UI/UX <br>
  PM
 </div>
  
