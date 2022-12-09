@@ -2,12 +2,12 @@
 
  # ⛄️   Hi, This is SYJ's Github   ⛄️
 
-## 👇🏻Click plz👇🏻
+## Click plz 👇🏻👇🏻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
 ## Listen Now !!
 <img src="https://i.ytimg.com/vi/PpW_sYtwun0/maxresdefault.jpg" /> 
- <div> 👉🏻 <a href="https://www.youtube.com/watch?v=PpW_sYtwun0"> </a> 👈🏻</div>
+ <div> 👉🏻 <a href="https://www.youtube.com/watch?v=PpW_sYtwun0" target="_blank"><img src ="https://img.shields.io/badge/Notion-FF0000?style=flat-square&logo=Youtube&logoColor=white"/> </a> 👈🏻</div>
 
 ## 👇🏻 See more details in my Notion
 <div> 👉🏻<a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 👈🏻</div>
