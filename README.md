@@ -1,14 +1,14 @@
 <div align="center">
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
  # ⛄️   Hi, This is SYJ's Github   ⛄️
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
 ## Click the Screen And Enjoy the Music
  <div> <a href="https://www.youtube.com/watch?v=PpW_sYtwun0"> 
   <img src="https://i.pinimg.com/originals/f8/d5/c5/f8d5c516490cb5b87c2697654266f682.gif" />  </a> </div>
- <!--> <img src ="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/> <!-->
-
+ 
+ 
 ## See more details in my Notion 👇🏻👇🏻
 <div> <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> </div>
 
