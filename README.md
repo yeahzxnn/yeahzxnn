@@ -9,10 +9,10 @@
   <img src="https://i.pinimg.com/originals/bb/d1/2c/bbd12ce863d6ad3a27811cca66b4b3f7.gif" />  </a> </div>
  
  
-## See more details in my Notion 👇🏻👇🏻
+## See more details👇🏻👇🏻
 <div> <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> </div>
 
-##  🏃‍  Activities  🏃‍♀️
+##    🏃‍  Activities  🏃‍♀️
 
 <div>
   UNIV OWL-FOREST FRONTEND <br>
