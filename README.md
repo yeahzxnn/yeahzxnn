@@ -5,14 +5,14 @@
 ## Click plz 👇🏻👇🏻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
-## Listen Now !!
-<img src="https://i.ytimg.com/vi/PpW_sYtwun0/maxresdefault.jpg" /> 
+## December Song 🎧
  <div> 👉🏻 <a href="https://www.youtube.com/watch?v=PpW_sYtwun0" target="_blank"><img src ="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/> </a> 👈🏻</div>
+ <img src="https://i.pinimg.com/originals/8f/78/2f/8f782f4135772e1893b80410489cae36.gif" /> 
 
-## 👇🏻 See more details in my Notion
-<div> 👉🏻<a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 👈🏻</div>
+## See more details in my Notion 👇🏻👇🏻
+<div> <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> </div>
 
-## ❄️ Activities ❄️
+##  🏃‍  Activities  🏃‍♀️
 
 <div>
   UNIV OWL-FOREST FRONTEND <br>
@@ -21,7 +21,7 @@
   RISING CAMP 13th - iOS App DEVELOPING
 </div>
  
-## ❄️ Interested in.. ❄️
+##  ❤️‍🔥  Interested in..  ❤️‍🔥
  
 <div>
  iOS APP DEVELOPING <br>
@@ -30,7 +30,7 @@
  PM
 </div>
   
-## ❄️ Coding Skill ❄️
+##  💎  Coding Skill & Tools  💎
 
 <div>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -40,23 +40,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- 
-</div>
-  
-## ❄️ Tools ❄️
-
-<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
- 
- 
 </div>
-
+  
 <br />
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=dracula)
