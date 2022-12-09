@@ -8,7 +8,7 @@
 
 <img src="https://66.media.tumblr.com/4e4f3d374133765244426903a2c6cae7/tumblr_pgvsdhHAa61xzxbu6o1_540.gif" />
   
-## Coding Skill
+## ❄️ Coding Skill ❄️
 
 <div>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -22,7 +22,7 @@
  
 </div>
   
-## Tools
+## ❄️ Tools ❄️
 
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -35,7 +35,7 @@
  
 </div>
 
-## Activities
+## ❄️ Activities ❄️
 
 <div>
   UNIV OWL-FOREST FRONTEND <br>
@@ -44,7 +44,7 @@
   RISING CAMP 13th - iOS App DEVELOPING
 </div>
  
-## Interested in..
+## ❄️ Interested in.. ❄️
  
 <div>
  iOS APP DEVELOPING <br>
