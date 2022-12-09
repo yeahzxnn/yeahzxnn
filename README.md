@@ -6,7 +6,9 @@
 
  <div> 👉🏻<a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 👈🏻</div>
 
-<img src="https://66.media.tumblr.com/4e4f3d374133765244426903a2c6cae7/tumblr_pgvsdhHAa61xzxbu6o1_540.gif" />
+## Lisen Now!!
+<img src="https://i.ytimg.com/vi/PpW_sYtwun0/maxresdefault.jpg" /> 
+ <div> 👉🏻 <a href="https://www.youtube.com/watch?v=PpW_sYtwun0"> </a> 👈🏻</div>
   
 ## ❄️ Coding Skill ❄️
 
