@@ -5,7 +5,7 @@
 
  <div> <a href="https://www.youtube.com/watch?v=Zyme6510ihI"> 
   <img src="https://i.pinimg.com/originals/a2/cd/b0/a2cdb0712257efcc75f09d64d97cb4c9.gif" />  </a> </div>
-<div> Recommend for U <div>
+<div> Click the image & Enjoy the playlist which is my favorite.. <div>
  
  
 ## See more details👇🏻👇🏻
