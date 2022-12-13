@@ -10,7 +10,7 @@
  
 ## See more details👇🏻👇🏻
 <div> <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 
-<a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a> <a href="https://blog.naver.com/xjoinyouthx" target="_blank"> <img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=NaverBlog&logoColor=white"/> </a> </div> 
+<a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>  </div> 
  
 
 ##    🏃‍♀️  Activities  🏃‍♀️
