@@ -5,7 +5,7 @@
 
  <div> <a href="https://www.youtube.com/watch?v=IlMB_LmPzKk"> 
   <img src="https://i.pinimg.com/originals/ff/18/c9/ff18c973fdc537fcfaeb2dce46104586.gif" />  </a> </div>
-<div> Click the Image <div>
+<!-- <div> Click the Image <div> -->
  
  
 ## 더 자세한 기록을 보고 싶으시다면 👇🏻
