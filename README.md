@@ -1,6 +1,6 @@
 <div align="center">
 
- #  안녕하세요,
+ #  안녕하세요✨
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
 
  <div> <a href="https://www.youtube.com/watch?v=IlMB_LmPzKk"> 
@@ -8,7 +8,7 @@
 <!-- <div> Click the Image <div> -->
  
  
-## 더 자세한 기록을 보고 싶으시다면 👇🏻
+## 더 자세한 기록은... 👇🏻
 <div> <a href="https://www.notion.so/yeahzxnn/yeahzxnn-6e87a93d63d9429386c90cf10f683294" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 
 <a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>  </div> 
  
