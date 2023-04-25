@@ -9,10 +9,9 @@
  <div> <a href="https://www.youtube.com/watch?v=IlMB_LmPzKk"> 
   <img src="https://i.pinimg.com/originals/ff/18/c9/ff18c973fdc537fcfaeb2dce46104586.gif" />  </a> </div>
  
- ## 
+ ##
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&layout=compact)](https://github.com/yeahzxnn/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&layout=compact)](https://github.com/yeahzxnn/github-readme-stats)
- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whynotyoucan)](https://solved.ac/whynotyoucan/)
  
 
