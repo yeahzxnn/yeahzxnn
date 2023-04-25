@@ -12,6 +12,11 @@
 <div> <a href="http://bit.ly/3m1pbG8" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 
 <a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>  </div> 
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzxnn&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahzxnn&layout=compact)](https://github.com/yeahzxnn/github-readme-stats)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whynotyoucan)](https://solved.ac/whynotyoucan/)
+ 
 
 <!-- ##    🏃‍♀️  Activities  🏃‍♀️
 
