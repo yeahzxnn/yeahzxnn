@@ -6,7 +6,7 @@
 <a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>  </div> 
 
 ## 
- <div> <a href="https://www.youtube.com/watch?v=IlMB_LmPzKk"> 
+ <div> <a href=""> 
   <img src="https://i.pinimg.com/originals/ff/18/c9/ff18c973fdc537fcfaeb2dce46104586.gif" />  </a> </div>
  
  ##
