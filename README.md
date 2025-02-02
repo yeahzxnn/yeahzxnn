@@ -1,6 +1,6 @@
 <div align="center">
 
- #  ✨ Welcome ✨
+ #  ✨ Welcome to my Github ✨
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
  <div> <a href="https://yeahzxnn.notion.site/a3c38531f9464a2f99f79d5a2ecd79da?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a> 
 <a href="https://velog.io/@yeahzxnn" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> </a>  </div> 
