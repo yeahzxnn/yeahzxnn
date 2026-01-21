@@ -1,7 +1,6 @@
 <div align="center">
 
  #  ✨ Welcome to my Github ✨
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahzxnn&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/yeahzxnn)
  <div>
 <a href="https://medium.com/@yejin0621" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
  </a>  </div> 
