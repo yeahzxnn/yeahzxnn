@@ -3,7 +3,9 @@
  #  ✨ Welcome to my Github ✨
  <div>
 <a href="https://medium.com/@yejin0621" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
- <a href="https://linkedin.com/in/yejinshin0621" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+ <a href="https://linkedin.com/in/yejinshin0621" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> <a href="https://velog.io/@yeahzxnn" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=velog&logoColor=white"/>
+</a>
  </a>  </div> 
 
 ## 
